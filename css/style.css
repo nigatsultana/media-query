@@ -1,0 +1,8 @@
+.box{
+	height:100vh ;
+	background-color: darkred;
+}
+.text{
+	text-align: center;
+	font-size: 50px;
+}
